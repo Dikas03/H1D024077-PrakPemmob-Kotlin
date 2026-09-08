@@ -53,7 +53,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
-@Preview(showBackground = true)
 @Composable
 fun LayoutTentangJualan(modifier: Modifier = Modifier) {
     Column(
